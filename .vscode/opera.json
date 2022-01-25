@@ -1,0 +1,11 @@
+"version": "0.2.0",
+"configurations": [
+    {
+        "type": "pwa-opera",
+        "request": "launch",
+        "name": "Launch Chrome against youtube",
+        "url": "https://www.youtube.com",
+        "webRoot": "${workspaceFolder}"
+    }
+]
+}
